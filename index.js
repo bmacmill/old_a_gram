@@ -37,7 +37,7 @@ function getPostsFeed() {
         likedStatus = ""
 
     }
-    // fix this, make less
+    // fix this, make less reliant on sections
     mainHtml += `
                  <section class="user-post-header">
                                     
